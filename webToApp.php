@@ -44,7 +44,7 @@ require_once 'GetInput.php';
             You Can now view your Output File Here, <?php echo '<a href="' . $output . '">' . $output . '</a>' ?>
             <br>
             <br>
-            <a href="web-parser.php">Go Back</a>
+            <a href="index.php">Go Back</a>
         </p>
     </div>
 </div>

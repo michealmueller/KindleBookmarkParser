@@ -10,7 +10,7 @@ class redirection
 {
     function redirect()
     {
-        header('Location: web-parser.php');
+        header('Location: index.php');
         exit;
     }
 }

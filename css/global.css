@@ -6,87 +6,10 @@ body
     background-color: #4C4C4C;
 }
 
-#content
+.content
 {
     margin: 0 auto;
     width: 950px;
-    height: 500px;
-    padding: 0px 0px 0px 0px;
-    background-color: #949494;
-}
-
-.shadow
-{
-    -moz-box-shadow: 3px 3px 4px #000;
-    -webkit-box-shadow: 3px 3px 4px #000;
-    box-shadow: 3px 3px 4px #000;
-    /* For IE 8 */
-    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
-    /* For IE 5.5 - 7 */
-    filter: progid:DXImageTransform.Microsoft.Shadow(Strength = 4, Direction = 135, Color = '#000000');
-}
-
-.uploadForm
-{
-    text-align: left;
-    float: left;
-}
-    .form table
-    {
-        border: #000000 thin solid;
-    }
-
-.settings
-{
-
-    float: right;
-    text-align: center;
-}
-    .settings table
-    {
-
-        border: #000000 thin solid;
-
-    }
-
-.header
-{
-    text-align: center;
-    color: #000000;
-    border-bottom: #000000 thin solid;
-    background-color: #5957ff;
-}
-    .header ol
-    {
-        text-align: left;
-        width: auto;
-    }
-
-.inputtext
-{
-    width: 400px;
-    font-size:12px;
-}
-
-.important
-{
-	background-color:#F5F6CE;
-    text-align: center;
-}
-
-.filepath
-{
-    background-color: #F5F6CE;
-    font-size: 11px;
-    width: auto;
-}
-
-.warnin-msg
-{
-    width: auto;
     height: auto;
-    background-color: #F5F6CE;
-    font-size: 12px;
-    text-align: center;
-    border: #000000 medium solid;
 }
+
